@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurtriis1" alt="arthurtriis1" /> </p>
 
-- 🔭 Atualmente sou Pesquisador e Desenvolvedor do Projeto **Sigabem pelo GRENDES**
+- 🔭 Atualmente sou Desenvolvedor Front-End na <a href="https://www.justa.com.vc/"></a> e Pesquisador do Projeto **Sigabem pelo GRENDES**
 
 - 🌱 Atualmente tenho aprendido sobre **Backend com NodeJS, Express e Typescript**
 
