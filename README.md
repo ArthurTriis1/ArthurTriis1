@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente sou Desenvolvedor Front-End na <a href="https://www.justa.com.vc/">Justa!</a> e Pesquisador do Projeto **Sigabem pelo GRENDES**
 
-- 🌱 Atualmente tenho aprendido sobre **Backend com NodeJS, Express e Typescript**
+- 🌱 Atualmente tenho aprendido sobre **Web Components e desenvolvimento de design systems**
 
 - 👨‍💻 Você pode acompanhar meus projetos pelo meu portfolio [https://arthurandrade.netlify.app/](https://arthurandrade.netlify.app/)
 
